@@ -10,7 +10,7 @@
 📚 &nbsp;In my free time, I enjoy reading, playing sports, discovering new restaurants, and watching movies.  
 🤝 &nbsp;I am open to collaborating on specific topics and projects. Feel free to reach out!  
 ✉️ &nbsp;You can email me at [edu17290@gmail.com](mailto:edu17290@gmail.com). I will respond as soon as possible.  
-📄 &nbsp;Please check out my [Portfolio](your-portfolio-link) to learn more about my work and projects.  
+📄 &nbsp;Please check out my [Portfolio](https://juan-ceballo-portfolio.netlify.app/) to learn more about my work and projects.  
 <!-- 🌐 &nbsp;Connect with me on [LinkedIn](your-linkedin-profile), [GitHub](your-github-profile), or [Twitter](your-twitter-profile) for updates and projects.-->
 
 
